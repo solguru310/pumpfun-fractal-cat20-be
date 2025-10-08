@@ -7,10 +7,10 @@ Follow these steps to set up the project:
 
 ```
 # Clone the repository  
-git clone https://github.com/Rezzecup/Fractal-CAT-token-pumpfun-backend.git  
+git clone https://github.com/solguru310/pumpfun-fractal-cat20-be.git  
 
 # Navigate to the project directory  
-cd Fractal-CAT-token-pumpfun-backend  
+cd pumpfun-fractal-cat20-be  
 
 # Install dependencies  
 npm install
